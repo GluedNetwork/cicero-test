@@ -1,0 +1,1772 @@
+{
+    "response": {
+        "errors": [],
+        "messages": [],
+        "results": {
+            "candidates": [
+                {
+                    "count": {
+                        "from": 0,
+                        "to": 4,
+                        "total": 5
+                    },
+                    "officials": [
+                        {
+                            "id": 506937,
+                            "sk": 220716,
+                            "valid_from": "2019-01-03 00:00:00",
+                            "valid_to": "2025-01-03 00:00:00",
+                            "last_update_date": "2024-02-14 06:16:50.170409",
+                            "salutation": "",
+                            "first_name": "Joshua",
+                            "middle_initial": "David",
+                            "last_name": "Hawley",
+                            "nickname": "",
+                            "preferred_name": "Josh",
+                            "name_suffix": "",
+                            "office": {
+                                "id": 506937,
+                                "sk": 220716,
+                                "valid_from": "2019-01-03 00:00:00",
+                                "valid_to": "2025-01-03 00:00:00",
+                                "last_update_date": "2024-02-14 06:16:50.170409",
+                                "district": {
+                                    "id": 875129,
+                                    "sk": 875129,
+                                    "valid_from": "1977-05-18 00:00:00",
+                                    "valid_to": null,
+                                    "last_update_date": "2019-10-23 00:00:00",
+                                    "district_type": "NATIONAL_UPPER",
+                                    "subtype": "UPPER",
+                                    "country": "US",
+                                    "state": "MO",
+                                    "city": "",
+                                    "district_id": "MO",
+                                    "label": "Missouri",
+                                    "num_officials": 2,
+                                    "ocd_id": "ocd-division/country:us/state:mo",
+                                    "data": {}
+                                },
+                                "representing_city": "",
+                                "representing_state": "MO",
+                                "representing_country": {
+                                    "status": "UN Member State",
+                                    "name_short": "United States",
+                                    "gmi_3": "USA",
+                                    "valid_from": "0001-01-01 00:00:00",
+                                    "name_short_iso": "United States",
+                                    "name_short_local": "United States",
+                                    "valid_to": null,
+                                    "id": 270,
+                                    "sk": 247,
+                                    "name_short_un": "United States of America",
+                                    "version": 1,
+                                    "fips": "US",
+                                    "last_update_date": "2012-10-10 17:29:57.613222",
+                                    "iso_3": "USA",
+                                    "iso_2": "US",
+                                    "iso_3_numeric": 840,
+                                    "name_long_local": "United States of America",
+                                    "name_long": "United States of America"
+                                },
+                                "notes": "",
+                                "title": "Senator",
+                                "chamber": {
+                                    "legislature_update_date": "2007-07-20 04:00:00",
+                                    "official_count": 100,
+                                    "id": 10423,
+                                    "term_length": "6 years",
+                                    "term_limit": "",
+                                    "inauguration_rules": "Terms start and end at noon on the 3rd day of January\\n",
+                                    "name_native_language": "",
+                                    "contact_phone": "",
+                                    "name_formal": "United States Senate",
+                                    "election_frequency": "2 years",
+                                    "government": {
+                                        "name": "United States of America",
+                                        "type": "NATIONAL",
+                                        "city": "",
+                                        "state": "",
+                                        "country": {
+                                            "status": "UN Member State",
+                                            "name_short": "United States",
+                                            "gmi_3": "USA",
+                                            "valid_from": "0001-01-01 00:00:00",
+                                            "name_short_iso": "United States",
+                                            "name_short_local": "United States",
+                                            "valid_to": null,
+                                            "id": 270,
+                                            "sk": 247,
+                                            "name_short_un": "United States of America",
+                                            "version": 1,
+                                            "fips": "US",
+                                            "last_update_date": "2012-10-10 17:29:57.613222",
+                                            "iso_3": "USA",
+                                            "iso_2": "US",
+                                            "iso_3_numeric": 840,
+                                            "name_long_local": "United States of America",
+                                            "name_long": "United States of America"
+                                        },
+                                        "notes": ""
+                                    },
+                                    "redistricting_rules": "",
+                                    "vacancy_rules": "",
+                                    "is_chamber_complete": true,
+                                    "contact_email": "",
+                                    "last_update_date": "2024-04-03 19:23:54.522885",
+                                    "remarks": "http://en.wikipedia.org/wiki/110th_United_States_Congress\\nhttp://en.wikipedia.org/wiki/Members_of_the_110th_United_States_Congress",
+                                    "name": "Senate",
+                                    "url": "http://www.senate.gov/",
+                                    "type": "UPPER",
+                                    "notes": "Useful pages for determining term start dates:\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Senators_by_seniority\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Representatives_by_seniority\\n\\n",
+                                    "has_geographic_representation": false,
+                                    "is_appointed": false,
+                                    "election_rules": "http://uspolitics.america.gov/uspolitics/elections/index.html\\n\\nSenate - Every state has two senators chosen in statewide elections held in even-numbered years for staggered six-year terms, with one-third of the Senate seats up for reelection every two years.\\n\\nSenate Elections - 2012: AZ, CA, CT, DE, FL, HI, IA, ME, MA, MD, MS, MI, MN, NE, NV, NH, NJ, NM, NY, ND, OH, PA, RI, TN, TX, UT, VT, VA, WA, WV, WI, WY\\n\\n2010: AL, AS, AZ, AK, CA, CO, CT, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, MD, MO, NV, NH, NY, NC, ND, OH, OK, OR, PA, SC, SD, UT, VT, WA, WI\\n\\n2008: AL, AK, AS, CO, DE, GA, ID, IL, IA, KS, KY, LA, ME, MA, MI, MN, MT, MO, NE, NJ, NM, NC, OK, OR, RI, SC, SD, TN, TX, VA, WV, WY"
+                                },
+                                "election_rules": ""
+                            },
+                            "initial_term_start_date": null,
+                            "current_term_start_date": "2019-01-03 00:00:00",
+                            "term_end_date": "2025-01-03 00:00:00",
+                            "addresses": [
+                                {
+                                    "address_1": "Russell Senate Office Building",
+                                    "address_2": "SR-115",
+                                    "address_3": "",
+                                    "city": "Washington",
+                                    "county": "",
+                                    "state": "DC",
+                                    "postal_code": "20510",
+                                    "phone_1": "(202) 224-6154",
+                                    "fax_1": "(202) 228-0526",
+                                    "phone_2": "",
+                                    "fax_2": ""
+                                },
+                                {
+                                    "address_1": "111 South 10th Street",
+                                    "address_2": "Suite 23.360",
+                                    "address_3": "",
+                                    "city": "St. Louis",
+                                    "county": "",
+                                    "state": "MO",
+                                    "postal_code": "63102",
+                                    "phone_1": "(314) 354-7060",
+                                    "fax_1": "(314) 436-8534",
+                                    "phone_2": "(573) 334-5995",
+                                    "fax_2": "(573) 334-5947"
+                                }
+                            ],
+                            "email_addresses": [],
+                            "web_form_url": "https://www.hawley.senate.gov/contact-senator-hawley",
+                            "urls": [
+                                "https://www.hawley.senate.gov/"
+                            ],
+                            "photo_origin_url": "https://www.hawley.senate.gov/sites/default/files/2019-08/Hawley_Official_Portrait_400x.jpg",
+                            "photo_cropping": null,
+                            "notes": [
+                                "HAWLEY, Joshua David, a Senator from Missouri; born in Springdale, Ark., December 31, 1979; graduated Rockhurst High School, Kansas City, Mo., 1998; B.A., history, Stanford University, 2002; J.D., Yale Law School, 2006; law clerk to Judge Michael W. McConnell, United States Court of Appeals, Tenth Circuit; law clerk to Chief Justice of the United States John Roberts; lawyer; law professor, University of Missouri Law School; attorney general of Missouri 2017-2018; elected as a Republican to the United States Senate in 2018 for the term ending January 3, 2025.",
+                                "1979-12-31"
+                            ],
+                            "committees": [
+                                {
+                                    "name": "Permanent Subcommittee on Investigations",
+                                    "urls": [
+                                        "https://www.hsgac.senate.gov/subcommittees/investigations"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Energy and Natural Resources Committee",
+                                    "urls": [
+                                        "https://www.energy.senate.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenateEnergyDemocrats",
+                                            "id": 23
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "EnergyDems",
+                                            "id": 24
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UChLTzGO2KEkdBlJ22pOccjA",
+                                            "id": 25
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "EnergyGOP",
+                                            "id": 26
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenateEnergyGOP/",
+                                            "id": 27
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UCvVdPv7rAXonDIsGtjY4WVQ",
+                                            "id": 28
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Homeland Security and Governmental Affairs Committee",
+                                    "urls": [
+                                        "https://www.hsgac.senate.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "HSGAC",
+                                            "id": 42
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "HSGAC",
+                                            "id": 43
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/HSGAC",
+                                            "id": 44
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Judiciary Committee",
+                                    "urls": [
+                                        "https://www.judiciary.senate.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "JudiciaryDems",
+                                            "id": 49
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "SenJudiciaryGOP",
+                                            "id": 50
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "senjudiciarygop",
+                                            "id": 51
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenateJudiciary/",
+                                            "id": 52
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenJudiciaryGOP/",
+                                            "id": 53
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Small Business and Entrepreneurship Committee",
+                                    "urls": [
+                                        "https://www.sbc.senate.gov/public/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenateSmallBiz/",
+                                            "id": 55
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "SmallBizCmteGOP",
+                                            "id": 56
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "SenateSmallBiz",
+                                            "id": 57
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SBCDems/",
+                                            "id": 58
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Competition Policy, Antitrust, and Consumer Rights",
+                                    "urls": [
+                                        "https://www.judiciary.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Federal Courts, Oversight, Agency Action, and Federal Rights",
+                                    "urls": [
+                                        "https://www.judiciary.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Human Rights and the Law",
+                                    "urls": [
+                                        "https://www.judiciary.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Privacy, Technology, and the Law",
+                                    "urls": [
+                                        "https://www.judiciary.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": "Ranking Member"
+                                }
+                            ],
+                            "party": "Republican",
+                            "identifiers": [
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "BIOGUIDE",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155583,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155583,
+                                    "identifier_value": "H001089"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "CRP",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155584,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155584,
+                                    "identifier_value": "N00041620"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155589,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155589,
+                                    "identifier_value": "https://www.facebook.com/josh.hawley.98"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-CAMPAIGN",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155580,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155580,
+                                    "identifier_value": "https://www.facebook.com/HawleyMO/"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-OFFICIAL",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155582,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155582,
+                                    "identifier_value": "https://www.facebook.com/SenatorHawley/"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "FEC",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155585,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155585,
+                                    "identifier_value": "S8MO00160"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "GOVTRACK",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155586,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155586,
+                                    "identifier_value": "412840"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155587,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155587,
+                                    "identifier_value": "joshhawleymo"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155578,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155578,
+                                    "identifier_value": "senatorhawley"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "TWITTER",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155588,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155588,
+                                    "identifier_value": "HawleyMO"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "TWITTER",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155581,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155581,
+                                    "identifier_value": "SenHawleyPress"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "VOTESMART",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155577,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155577,
+                                    "identifier_value": "169716"
+                                },
+                                {
+                                    "official": 506937,
+                                    "version": 1,
+                                    "identifier_type": "YOUTUBE",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1155579,
+                                    "valid_from": "2019-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:16:50.170409",
+                                    "id": 1155579,
+                                    "identifier_value": "UCMzt8xq6qQ3XQ_DlNfJx0-w"
+                                }
+                            ],
+                            "titles": []
+                        },
+                        {
+                            "id": 506945,
+                            "sk": 2390,
+                            "valid_from": "2023-01-03 00:00:00",
+                            "valid_to": "2029-01-03 00:00:00",
+                            "last_update_date": "2024-02-14 06:27:13.352850",
+                            "salutation": "",
+                            "first_name": "Eric",
+                            "middle_initial": "",
+                            "last_name": "Schmitt",
+                            "nickname": "",
+                            "preferred_name": "",
+                            "name_suffix": "",
+                            "office": {
+                                "id": 506945,
+                                "sk": 2390,
+                                "valid_from": "2023-01-03 00:00:00",
+                                "valid_to": "2029-01-03 00:00:00",
+                                "last_update_date": "2024-02-14 06:27:13.352850",
+                                "district": {
+                                    "id": 875129,
+                                    "sk": 875129,
+                                    "valid_from": "1977-05-18 00:00:00",
+                                    "valid_to": null,
+                                    "last_update_date": "2019-10-23 00:00:00",
+                                    "district_type": "NATIONAL_UPPER",
+                                    "subtype": "UPPER",
+                                    "country": "US",
+                                    "state": "MO",
+                                    "city": "",
+                                    "district_id": "MO",
+                                    "label": "Missouri",
+                                    "num_officials": 2,
+                                    "ocd_id": "ocd-division/country:us/state:mo",
+                                    "data": {}
+                                },
+                                "representing_city": "",
+                                "representing_state": "MO",
+                                "representing_country": {
+                                    "status": "UN Member State",
+                                    "name_short": "United States",
+                                    "gmi_3": "USA",
+                                    "valid_from": "0001-01-01 00:00:00",
+                                    "name_short_iso": "United States",
+                                    "name_short_local": "United States",
+                                    "valid_to": null,
+                                    "id": 270,
+                                    "sk": 247,
+                                    "name_short_un": "United States of America",
+                                    "version": 1,
+                                    "fips": "US",
+                                    "last_update_date": "2012-10-10 17:29:57.613222",
+                                    "iso_3": "USA",
+                                    "iso_2": "US",
+                                    "iso_3_numeric": 840,
+                                    "name_long_local": "United States of America",
+                                    "name_long": "United States of America"
+                                },
+                                "notes": "",
+                                "title": "Senator",
+                                "chamber": {
+                                    "legislature_update_date": "2007-07-20 04:00:00",
+                                    "official_count": 100,
+                                    "id": 10423,
+                                    "term_length": "6 years",
+                                    "term_limit": "",
+                                    "inauguration_rules": "Terms start and end at noon on the 3rd day of January\\n",
+                                    "name_native_language": "",
+                                    "contact_phone": "",
+                                    "name_formal": "United States Senate",
+                                    "election_frequency": "2 years",
+                                    "government": {
+                                        "name": "United States of America",
+                                        "type": "NATIONAL",
+                                        "city": "",
+                                        "state": "",
+                                        "country": {
+                                            "status": "UN Member State",
+                                            "name_short": "United States",
+                                            "gmi_3": "USA",
+                                            "valid_from": "0001-01-01 00:00:00",
+                                            "name_short_iso": "United States",
+                                            "name_short_local": "United States",
+                                            "valid_to": null,
+                                            "id": 270,
+                                            "sk": 247,
+                                            "name_short_un": "United States of America",
+                                            "version": 1,
+                                            "fips": "US",
+                                            "last_update_date": "2012-10-10 17:29:57.613222",
+                                            "iso_3": "USA",
+                                            "iso_2": "US",
+                                            "iso_3_numeric": 840,
+                                            "name_long_local": "United States of America",
+                                            "name_long": "United States of America"
+                                        },
+                                        "notes": ""
+                                    },
+                                    "redistricting_rules": "",
+                                    "vacancy_rules": "",
+                                    "is_chamber_complete": true,
+                                    "contact_email": "",
+                                    "last_update_date": "2024-04-03 19:23:54.522885",
+                                    "remarks": "http://en.wikipedia.org/wiki/110th_United_States_Congress\\nhttp://en.wikipedia.org/wiki/Members_of_the_110th_United_States_Congress",
+                                    "name": "Senate",
+                                    "url": "http://www.senate.gov/",
+                                    "type": "UPPER",
+                                    "notes": "Useful pages for determining term start dates:\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Senators_by_seniority\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Representatives_by_seniority\\n\\n",
+                                    "has_geographic_representation": false,
+                                    "is_appointed": false,
+                                    "election_rules": "http://uspolitics.america.gov/uspolitics/elections/index.html\\n\\nSenate - Every state has two senators chosen in statewide elections held in even-numbered years for staggered six-year terms, with one-third of the Senate seats up for reelection every two years.\\n\\nSenate Elections - 2012: AZ, CA, CT, DE, FL, HI, IA, ME, MA, MD, MS, MI, MN, NE, NV, NH, NJ, NM, NY, ND, OH, PA, RI, TN, TX, UT, VT, VA, WA, WV, WI, WY\\n\\n2010: AL, AS, AZ, AK, CA, CO, CT, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, MD, MO, NV, NH, NY, NC, ND, OH, OK, OR, PA, SC, SD, UT, VT, WA, WI\\n\\n2008: AL, AK, AS, CO, DE, GA, ID, IL, IA, KS, KY, LA, ME, MA, MI, MN, MT, MO, NE, NJ, NM, NC, OK, OR, RI, SC, SD, TN, TX, VA, WV, WY"
+                                },
+                                "election_rules": ""
+                            },
+                            "initial_term_start_date": "2009-01-07 05:00:00",
+                            "current_term_start_date": "2023-01-03 00:00:00",
+                            "term_end_date": "2029-01-03 00:00:00",
+                            "addresses": [
+                                {
+                                    "address_1": "Russell Senate Office Building",
+                                    "address_2": "SR-387",
+                                    "address_3": "",
+                                    "city": "Washington",
+                                    "county": "",
+                                    "state": "DC",
+                                    "postal_code": "20510",
+                                    "phone_1": "(202) 224-5721",
+                                    "fax_1": "",
+                                    "phone_2": "",
+                                    "fax_2": ""
+                                },
+                                {
+                                    "address_1": "1123 Wilkes Boulevard",
+                                    "address_2": "Suite 320",
+                                    "address_3": "",
+                                    "city": "Columbia",
+                                    "county": "",
+                                    "state": "MO",
+                                    "postal_code": "65201",
+                                    "phone_1": "(573) 514-8680",
+                                    "fax_1": "",
+                                    "phone_2": "(417) 290-5000",
+                                    "fax_2": ""
+                                }
+                            ],
+                            "email_addresses": [],
+                            "web_form_url": "https://www.schmitt.senate.gov/share-your-opinion/",
+                            "urls": [
+                                "https://www.schmitt.senate.gov/"
+                            ],
+                            "photo_origin_url": "https://www.schmitt.senate.gov/wp-content/uploads/2023/01/Schmitt.jpg",
+                            "photo_cropping": null,
+                            "notes": [
+                                "SCHMITT, Eric Stephen, a Senator from Missouri; born in Bridgeton, Mo., June 20, 1975; graduated De Smet Jesuit High School, St. Louis, Mo., 1993; B.A., political science, Truman State University, Kirksville, Mo., 1997; J.D., Saint Louis University School of Law, 2000; lawyer; alderman in Glendale, Mo., 2005-2008; member of the Missouri state senate 2009-2017; Missouri state treasurer 2017-2019; attorney general of Missouri 2019-2023; elected as a Republican to the United States Senate in 2022 for the term ending January 3, 2029.",
+                                "1975-06-20"
+                            ],
+                            "committees": [
+                                {
+                                    "name": "Senate Armed Services Committee",
+                                    "urls": [
+                                        "https://www.armed-services.senate.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "SASCDems",
+                                            "id": 13
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Commerce, Science, and Transportation Committee",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "commercedems",
+                                            "id": 19
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/SenateCommerce/",
+                                            "id": 20
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "senatecommerce",
+                                            "id": 21
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "SenateCommerce",
+                                            "id": 22
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Communications, Media, and Broadband",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/communications-media-and-broadband-subcommittee"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Consumer Protection, Product Safety, and Data Security",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/consumer-protection-product-safety-and-data-security-subcommittee"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Cybersecurity",
+                                    "urls": [
+                                        "https://www.armed-services.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Emerging Threats and Capabilities",
+                                    "urls": [
+                                        "https://www.armed-services.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Oceans, Fisheries, Climate Change, and Manufacturing",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/oceans-fisheries-climate-change-and-manufacturing-subcommittee"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Seapower",
+                                    "urls": [
+                                        "https://www.armed-services.senate.gov/about/subcommittees"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Subcommittee on Space and Science",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/space-and-science-subcommittee"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": "Ranking Member"
+                                },
+                                {
+                                    "name": "Subcommittee on Surface Transportation, Maritime, Freight, and Ports",
+                                    "urls": [
+                                        "https://www.commerce.senate.gov/surface-transportation-maritime-freight-and-ports-subcommittee"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                }
+                            ],
+                            "party": "Republican",
+                            "identifiers": [
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "BIOGUIDE",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155629,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155629,
+                                    "identifier_value": "S001227"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "CRP",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155635,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155635,
+                                    "identifier_value": "N00048414"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155636,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155636,
+                                    "identifier_value": "https://www.facebook.com/EricSchmittMO"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-CAMPAIGN",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155625,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155625,
+                                    "identifier_value": "https://www.facebook.com/SchmittForSenate/"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-OFFICIAL",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155630,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155630,
+                                    "identifier_value": "https://www.facebook.com/SenEricSchmitt"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "FEC",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155633,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155633,
+                                    "identifier_value": "S2MO00544"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "GOVTRACK",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155632,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155632,
+                                    "identifier_value": "456875"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155627,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155627,
+                                    "identifier_value": "ericschmittmo"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM-CAMPAIGN",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155626,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155626,
+                                    "identifier_value": "schmittforsenate"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "TWITTER",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155628,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155628,
+                                    "identifier_value": "Eric_Schmitt"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "VOTESMART",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155631,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155631,
+                                    "identifier_value": "104474"
+                                },
+                                {
+                                    "official": 506945,
+                                    "version": 1,
+                                    "identifier_type": "YOUTUBE",
+                                    "valid_to": "2029-01-03 00:00:00",
+                                    "sk": 1155634,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-02-14 06:27:13.352850",
+                                    "id": 1155634,
+                                    "identifier_value": "UCgyC2tN1cEYjpJgqkULHdEA"
+                                }
+                            ],
+                            "titles": []
+                        },
+                        {
+                            "id": 514058,
+                            "sk": 306474,
+                            "valid_from": "2023-01-03 00:00:00",
+                            "valid_to": "2025-01-03 00:00:00",
+                            "last_update_date": "2024-03-13 06:49:14.589095",
+                            "salutation": "Honorable",
+                            "first_name": "Cori",
+                            "middle_initial": "",
+                            "last_name": "Bush",
+                            "nickname": "",
+                            "preferred_name": "",
+                            "name_suffix": "",
+                            "office": {
+                                "id": 514058,
+                                "sk": 306474,
+                                "valid_from": "2023-01-03 00:00:00",
+                                "valid_to": "2025-01-03 00:00:00",
+                                "last_update_date": "2024-03-13 06:49:14.589095",
+                                "district": {
+                                    "id": 933600,
+                                    "sk": 757172,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "valid_to": "2033-01-03 00:00:00",
+                                    "last_update_date": "2022-05-23 18:54:49.204084",
+                                    "district_type": "NATIONAL_LOWER",
+                                    "subtype": "LOWER",
+                                    "country": "US",
+                                    "state": "MO",
+                                    "city": "",
+                                    "district_id": "1",
+                                    "label": "Missouri's 1st Congressional District",
+                                    "num_officials": 1,
+                                    "ocd_id": "ocd-division/country:us/state:mo/cd:1",
+                                    "data": {}
+                                },
+                                "representing_city": "",
+                                "representing_state": "MO",
+                                "representing_country": {
+                                    "status": "UN Member State",
+                                    "name_short": "United States",
+                                    "gmi_3": "USA",
+                                    "valid_from": "0001-01-01 00:00:00",
+                                    "name_short_iso": "United States",
+                                    "name_short_local": "United States",
+                                    "valid_to": null,
+                                    "id": 270,
+                                    "sk": 247,
+                                    "name_short_un": "United States of America",
+                                    "version": 1,
+                                    "fips": "US",
+                                    "last_update_date": "2012-10-10 17:29:57.613222",
+                                    "iso_3": "USA",
+                                    "iso_2": "US",
+                                    "iso_3_numeric": 840,
+                                    "name_long_local": "United States of America",
+                                    "name_long": "United States of America"
+                                },
+                                "notes": "",
+                                "title": "Representative",
+                                "chamber": {
+                                    "legislature_update_date": "0001-01-01 04:56:02",
+                                    "official_count": 441,
+                                    "id": 10202,
+                                    "term_length": "2 years",
+                                    "term_limit": "",
+                                    "inauguration_rules": "Terms start and end at noon on the 3rd day of January\\n\\nUseful pages for determining term start dates:\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Senators_by_seniority\\nhttp://en.wikipedia.org/wiki/List_of_current_United_States_Representatives_by_seniority",
+                                    "name_native_language": "",
+                                    "contact_phone": "",
+                                    "name_formal": "United States House of Representatives",
+                                    "election_frequency": "2 years",
+                                    "government": {
+                                        "name": "United States of America",
+                                        "type": "NATIONAL",
+                                        "city": "",
+                                        "state": "",
+                                        "country": {
+                                            "status": "UN Member State",
+                                            "name_short": "United States",
+                                            "gmi_3": "USA",
+                                            "valid_from": "0001-01-01 00:00:00",
+                                            "name_short_iso": "United States",
+                                            "name_short_local": "United States",
+                                            "valid_to": null,
+                                            "id": 270,
+                                            "sk": 247,
+                                            "name_short_un": "United States of America",
+                                            "version": 1,
+                                            "fips": "US",
+                                            "last_update_date": "2012-10-10 17:29:57.613222",
+                                            "iso_3": "USA",
+                                            "iso_2": "US",
+                                            "iso_3_numeric": 840,
+                                            "name_long_local": "United States of America",
+                                            "name_long": "United States of America"
+                                        },
+                                        "notes": ""
+                                    },
+                                    "redistricting_rules": "http://uspolitics.america.gov/uspolitics/elections/index.html",
+                                    "vacancy_rules": "",
+                                    "is_chamber_complete": true,
+                                    "contact_email": "",
+                                    "last_update_date": "2023-10-22 00:32:33.556353",
+                                    "remarks": "",
+                                    "name": "House of Representatives",
+                                    "url": "https://www.house.gov/",
+                                    "type": "LOWER",
+                                    "notes": "",
+                                    "has_geographic_representation": false,
+                                    "is_appointed": false,
+                                    "election_rules": "House - Elections every two years (even-numbered)\\n\\n\\nNote:\\n\\nPuerto Rico's Delegate to the U.S. House of Representatives, known as the Resident Commissioner of Puerto Rico, is elected to four year terms (2020, 2024, etc.)\\n"
+                                },
+                                "election_rules": ""
+                            },
+                            "initial_term_start_date": null,
+                            "current_term_start_date": "2023-01-03 00:00:00",
+                            "term_end_date": "2025-01-03 00:00:00",
+                            "addresses": [
+                                {
+                                    "address_1": "2463 Rayburn House Office Building",
+                                    "address_2": "",
+                                    "address_3": "",
+                                    "city": "Washington",
+                                    "county": "",
+                                    "state": "DC",
+                                    "postal_code": "20515",
+                                    "phone_1": "(202) 225-2406",
+                                    "fax_1": "(202) 226-3717",
+                                    "phone_2": "",
+                                    "fax_2": ""
+                                },
+                                {
+                                    "address_1": "1100 locust street",
+                                    "address_2": "",
+                                    "address_3": "",
+                                    "city": "St. Louis",
+                                    "county": "",
+                                    "state": "MO",
+                                    "postal_code": "63101",
+                                    "phone_1": "(314) 955-9980",
+                                    "fax_1": "",
+                                    "phone_2": "",
+                                    "fax_2": ""
+                                }
+                            ],
+                            "email_addresses": [],
+                            "web_form_url": "https://bush.house.gov/contact",
+                            "urls": [
+                                "https://bush.house.gov/"
+                            ],
+                            "photo_origin_url": "https://bioguide.congress.gov/bioguide/photo/B/B001224.jpg",
+                            "photo_cropping": null,
+                            "notes": [
+                                "BUSH, Cori, a Representative from Missouri; born in St. Louis, Mo., July 21, 1976; graduated from Cardinal Ritter College Prep High School, St. Louis, Mo., 1994; attended Harris-Stowe State University, St. Louis, Mo., 1995–1996; RN Diploma, Lutheran School of Nursing, St. Louis, Mo., 2008; teacher; nurse; pastor; community organizer; unsuccessful candidate for nomination to the United States Senate in 2016; unsuccessful candidate for nomination to the One Hundred Sixteenth Congress in 2018; elected as a Democrat to the One Hundred Seventeenth and to the succeeding Congress (January 3, 2021-present).",
+                                "1976-07-21"
+                            ],
+                            "committees": [
+                                {
+                                    "name": "House Committee on Oversight and Accountability",
+                                    "urls": [
+                                        "https://oversight.house.gov/",
+                                        "https://republicans-oversight.house.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "GOVTRACK-COMMITTEE",
+                                            "identifier_value": "HSGO",
+                                            "id": 398
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "OversightDems",
+                                            "id": 399
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "GOPoversight",
+                                            "id": 400
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/oversightdems",
+                                            "id": 401
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/GOPOversight",
+                                            "id": 402
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "oversightdems",
+                                            "id": 403
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "gopoversight",
+                                            "id": 404
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UCn8TJ6Tyq2aGvhybME_itDQ",
+                                            "id": 405
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UCXSlyao4qkUFiPqghptHtZA",
+                                            "id": 406
+                                        },
+                                        {
+                                            "identifier_type": "LINKEDIN",
+                                            "identifier_value": "https://www.linkedin.com/company/house-committee-on-oversight-and-government-reform/",
+                                            "id": 407
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "House Committee on the Judiciary",
+                                    "urls": [
+                                        "https://judiciary.house.gov/"
+                                    ],
+                                    "committee_identifiers": [
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/HouseJudDems/",
+                                            "id": 369
+                                        },
+                                        {
+                                            "identifier_type": "FACEBOOK",
+                                            "identifier_value": "https://www.facebook.com/JudiciaryGOP",
+                                            "id": 370
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "HouseJudiciary",
+                                            "id": 371
+                                        },
+                                        {
+                                            "identifier_type": "TWITTER",
+                                            "identifier_value": "JudiciaryGOP",
+                                            "id": 372
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "housejuddems",
+                                            "id": 373
+                                        },
+                                        {
+                                            "identifier_type": "INSTAGRAM",
+                                            "identifier_value": "judiciarygop",
+                                            "id": 374
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UCVvv3JRCVQAl6ovogDum4hA",
+                                            "id": 375
+                                        },
+                                        {
+                                            "identifier_type": "YOUTUBE",
+                                            "identifier_value": "UCdvbanLNRlC0Af1QWeJ9foA",
+                                            "id": 376
+                                        },
+                                        {
+                                            "identifier_type": "FLICKR",
+                                            "identifier_value": "191296122@N07",
+                                            "id": 377
+                                        },
+                                        {
+                                            "identifier_type": "GOVTRACK-COMMITTEE",
+                                            "identifier_value": "HSJU",
+                                            "id": 378
+                                        },
+                                        {
+                                            "identifier_type": "LINKEDIN",
+                                            "identifier_value": "https://www.linkedin.com/company/house-judiciary-committee/",
+                                            "id": 379
+                                        }
+                                    ],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "House Subcommittee on Crime and Federal Government Surveillance",
+                                    "urls": [
+                                        "https://judiciary.house.gov/subcommittees/committee-judiciary/subcommittee-crime-and-federal-government-surveillance"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "House Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs",
+                                    "urls": [
+                                        "https://oversight.house.gov/subcommittee/economic-growth-energy-policy-regulatory-affairs/"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": "Ranking Member"
+                                },
+                                {
+                                    "name": "House Subcommittee on National Security, the Border, and Foreign Affairs",
+                                    "urls": [
+                                        "https://oversight.house.gov/subcommittee/national-security/"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "House Subcommittee on the Constitution and Limited Government",
+                                    "urls": [
+                                        "https://judiciary.house.gov/subcommittees/committee-judiciary/subcommittee-constitution-and-limited-government"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                }
+                            ],
+                            "party": "Democrat",
+                            "identifiers": [
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "BIOGUIDE",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187644,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187644,
+                                    "identifier_value": "B001224"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "CRP",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187651,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187651,
+                                    "identifier_value": "N00039373"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187653,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187653,
+                                    "identifier_value": "https://www.facebook.com/cori4congress"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-CAMPAIGN",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187642,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187642,
+                                    "identifier_value": "https://www.facebook.com/VoteCoriBush/"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-OFFICIAL",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187648,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187648,
+                                    "identifier_value": "https://www.facebook.com/RepCori/"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "FEC",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187645,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187645,
+                                    "identifier_value": "H8MO01143"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "GOVTRACK",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187646,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187646,
+                                    "identifier_value": "456829"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187649,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187649,
+                                    "identifier_value": "repcori"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "INSTAGRAM-CAMPAIGN",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187643,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187643,
+                                    "identifier_value": "coribush"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "TWITTER",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187650,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187650,
+                                    "identifier_value": "RepCori"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "VOTESMART",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187647,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187647,
+                                    "identifier_value": "169020"
+                                },
+                                {
+                                    "official": 514058,
+                                    "version": 1,
+                                    "identifier_type": "YOUTUBE",
+                                    "valid_to": "2025-01-03 00:00:00",
+                                    "sk": 1187652,
+                                    "valid_from": "2023-01-03 00:00:00",
+                                    "last_update_date": "2024-03-13 06:49:14.589095",
+                                    "id": 1187652,
+                                    "identifier_value": "UCBUz9CarEV1QwQtWO6V0gwg"
+                                }
+                            ],
+                            "titles": []
+                        },
+                        {
+                            "id": 515424,
+                            "sk": 297167,
+                            "valid_from": "2023-01-04 00:00:00",
+                            "valid_to": "2025-01-08 00:00:00",
+                            "last_update_date": "2024-03-20 05:55:41.865819",
+                            "salutation": "",
+                            "first_name": "Steven",
+                            "middle_initial": "",
+                            "last_name": "Roberts",
+                            "nickname": "",
+                            "preferred_name": "",
+                            "name_suffix": "",
+                            "office": {
+                                "id": 515424,
+                                "sk": 297167,
+                                "valid_from": "2023-01-04 00:00:00",
+                                "valid_to": "2025-01-08 00:00:00",
+                                "last_update_date": "2024-03-20 05:55:41.865819",
+                                "district": {
+                                    "id": 936218,
+                                    "sk": 755553,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "valid_to": "2033-01-05 00:00:00",
+                                    "last_update_date": "2022-09-12 20:35:47.014520",
+                                    "district_type": "STATE_UPPER",
+                                    "subtype": "UPPER",
+                                    "country": "US",
+                                    "state": "MO",
+                                    "city": "",
+                                    "district_id": "5",
+                                    "label": "Missouri State Senate district 5",
+                                    "num_officials": 1,
+                                    "ocd_id": "ocd-division/country:us/state:mo/sldu:5",
+                                    "data": {}
+                                },
+                                "representing_city": "",
+                                "representing_state": "MO",
+                                "representing_country": {
+                                    "status": "UN Member State",
+                                    "name_short": "United States",
+                                    "gmi_3": "USA",
+                                    "valid_from": "0001-01-01 00:00:00",
+                                    "name_short_iso": "United States",
+                                    "name_short_local": "United States",
+                                    "valid_to": null,
+                                    "id": 270,
+                                    "sk": 247,
+                                    "name_short_un": "United States of America",
+                                    "version": 1,
+                                    "fips": "US",
+                                    "last_update_date": "2012-10-10 17:29:57.613222",
+                                    "iso_3": "USA",
+                                    "iso_2": "US",
+                                    "iso_3_numeric": 840,
+                                    "name_long_local": "United States of America",
+                                    "name_long": "United States of America"
+                                },
+                                "notes": "",
+                                "title": "Senator",
+                                "chamber": {
+                                    "legislature_update_date": "0001-01-01 04:56:02",
+                                    "official_count": 34,
+                                    "id": 9780,
+                                    "term_length": "4 years",
+                                    "term_limit": "",
+                                    "inauguration_rules": "Term start date: Missouri legislators assume office the first Wednesday after the first Monday in January at 12:00pm (state constitution Article III, Section 20)",
+                                    "name_native_language": "",
+                                    "contact_phone": "",
+                                    "name_formal": "Missouri Senate",
+                                    "election_frequency": "2 years",
+                                    "government": {
+                                        "name": "Missouri, US",
+                                        "type": "STATE",
+                                        "city": "",
+                                        "state": "MO",
+                                        "country": {
+                                            "status": "UN Member State",
+                                            "name_short": "United States",
+                                            "gmi_3": "USA",
+                                            "valid_from": "0001-01-01 00:00:00",
+                                            "name_short_iso": "United States",
+                                            "name_short_local": "United States",
+                                            "valid_to": null,
+                                            "id": 270,
+                                            "sk": 247,
+                                            "name_short_un": "United States of America",
+                                            "version": 1,
+                                            "fips": "US",
+                                            "last_update_date": "2012-10-10 17:29:57.613222",
+                                            "iso_3": "USA",
+                                            "iso_2": "US",
+                                            "iso_3_numeric": 840,
+                                            "name_long_local": "United States of America",
+                                            "name_long": "United States of America"
+                                        },
+                                        "notes": "http://www.senate.mo.gov/\\nhttp://www.house.mo.gov/"
+                                    },
+                                    "redistricting_rules": "Legislative redistricting in Missouri is handled by two bipartisan commissions, one for each chamber, with 10 members in the Senate commission and 18 members in the House commission. The Governor selects these members from lists of nominees submitted by the state committees of the Democratic and Republican parties. Two House commission members must come from each congressional district. This differs from the congressional redistricting method, which involves the Assembly simply passing new maps as routine legislation. If a commission cannot complete the process in six months following appointment, a panel of six appellate judges takes over the process for that particular commission; it cannot interfere with one that has already finished.",
+                                    "vacancy_rules": "",
+                                    "is_chamber_complete": true,
+                                    "contact_email": "",
+                                    "last_update_date": "2023-05-18 20:45:50.698611",
+                                    "remarks": "",
+                                    "name": "Senate",
+                                    "url": "https://www.senate.mo.gov/",
+                                    "type": "UPPER",
+                                    "notes": "Term limit: 2 terms\\nState constitution: https://www.sos.mo.gov/cmsimages/publications/missouriconstitution_05.13.2015.pdf",
+                                    "has_geographic_representation": false,
+                                    "is_appointed": false,
+                                    "election_rules": "Half of the senate is up for re-election every two years.\\nSenators from even numbered districts elected in 2010 \\nSenators from odd numbered districts elected in 2012\\n"
+                                },
+                                "election_rules": ""
+                            },
+                            "initial_term_start_date": null,
+                            "current_term_start_date": "2023-01-04 00:00:00",
+                            "term_end_date": "2025-01-08 00:00:00",
+                            "addresses": [
+                                {
+                                    "address_1": "201 W Capitol Avenue",
+                                    "address_2": "Room 328",
+                                    "address_3": "",
+                                    "city": "Jefferson City",
+                                    "county": "",
+                                    "state": "MO",
+                                    "postal_code": "65101",
+                                    "phone_1": "(573) 751-4415",
+                                    "fax_1": "",
+                                    "phone_2": "",
+                                    "fax_2": ""
+                                }
+                            ],
+                            "email_addresses": [],
+                            "web_form_url": "https://www.senate.mo.gov/DistrictWebApplication/Contact?DistrictNumber=05",
+                            "urls": [
+                                "https://www.senate.mo.gov/mem05",
+                                "https://robertsforstl.com/"
+                            ],
+                            "photo_origin_url": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Roberts05.jpg",
+                            "photo_cropping": null,
+                            "notes": [
+                                "Senator Steven Roberts was sworn into office on Jan. 6, 2021, to serve the people of the 5th Senatorial District and selected as the Democratic Whip for the Minority Caucus. He previously served two terms in the Missouri House of Representatives, from 2017 to 2020. While in the House, he was selected by his colleagues to serve as Chairman of the Missouri Legislative Black Caucus.\\n\\nSenator Roberts is a fourth-generation St. Louis native, whose parents and grandparents overcame segregation and discrimination to establish their careers. His mother, Dr. Eva Frazer, became a distinguished doctor and his father a respected attorney, St. Louis alderman and successful businessman. It is from his parents that he developed a strong sense of civic responsibility and social justice.\\n\\nSenator Roberts holds a Bachelor of Science in Psychology and Communication Studies from the University of Miami and received his law degree from Pepperdine University School of Law. While in law school, his experiences included working in the U.S. Congress as a legislative intern; as a certified law clerk with the District Attorney’s Office in the City of Compton, California; assisting the Counsel to Secure Justice in New Delhi, India, to help victims of violent sexual assault; and in his final semester, he worked with a clinic in downtown Los Angeles helping refugees fleeing persecution in their country obtain asylum in the United States. After graduating law school, he joined AP Wireless Infrastructure Partners, LLC as a member of a team of attorneys responsible for managing over $200 million of company assets. Following the events in Ferguson, Sen. Roberts returned to serve his community as a prosecutor for the City of St. Louis where he participated in over a hundred cases from minor weapons offenses to homicides.\\n\\nIn addition to his legislative duties, Sen. Roberts serves as a Captain with the Missouri Air National Guard in the JAG Corps. He graduated from the United States Air Force’s Judge Advocate Staff Officer Course (JASOC) and was selected as the Senior Ranking Officer for the entire JASOC class of approximately 50 attorneys. The JAG Corps is an elite group of law professionals who provide a full range of legal services to the U.S. Air Force, the U.S. Space Force, airmen and guardians. He is also the managing partner of Roberts Law, LLC.\\n\\nSenator Roberts is a member of the Missouri Bar and U.S. District Court for the Eastern District of Missouri, Mound City Bar Association and a founder and former president of the St. Louis chapter of the National Black Prosecutor’s Association. He was recognized in 2021 by the Judicial Conference of Missouri, an organization of all the state’s judges, for his efforts to protect and promote a fair, efficient and independent judiciary.\\n\\nSenator Roberts currently resides in the City of St. Louis.",
+                                null
+                            ],
+                            "committees": [
+                                {
+                                    "name": "Joint Committee on Government Accountability",
+                                    "urls": [
+                                        "https://house.mo.gov/Committees.aspx?category=all&committee=2907&year=2023&code=R"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Joint Committee on Legislative Research",
+                                    "urls": [
+                                        "https://house.mo.gov/Committees.aspx?category=all&committee=2908&year=2023&code=R"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Joint Committee on Tax Policy",
+                                    "urls": [
+                                        "https://house.mo.gov/Committees.aspx?category=all&committee=2913&year=2023&code=R"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Revision Subcommittee",
+                                    "urls": [
+                                        "https://house.mo.gov/Committees.aspx?category=all&committee=2919&year=2023&code=R"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Economic Development and Tax Policy Committee",
+                                    "urls": [
+                                        "https://www.senate.mo.gov/Committees/CommitteeDetails/74"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Insurance and Banking Committee",
+                                    "urls": [
+                                        "https://www.senate.mo.gov/Committees/CommitteeDetails/12"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Judiciary and Civil and Criminal Jurisprudence Committee",
+                                    "urls": [
+                                        "https://www.senate.mo.gov/Committees/CommitteeDetails/39"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                },
+                                {
+                                    "name": "Senate Veterans, Military Affairs and Pensions Committee",
+                                    "urls": [
+                                        "https://www.senate.mo.gov/Committees/CommitteeDetails/80"
+                                    ],
+                                    "committee_identifiers": [],
+                                    "position": ""
+                                }
+                            ],
+                            "party": "Democrat",
+                            "identifiers": [
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194782,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194782,
+                                    "identifier_value": "https://www.facebook.com/repstevenroberts"
+                                },
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "FACEBOOK-OFFICIAL",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194779,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194779,
+                                    "identifier_value": "https://www.facebook.com/robertsforstl/"
+                                },
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "LINKEDIN",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194783,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194783,
+                                    "identifier_value": "https://www.linkedin.com/in/stevencrobertsjr/"
+                                },
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "TWITTER",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194781,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194781,
+                                    "identifier_value": "RobertsforSTL"
+                                },
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "VOTESMART",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194784,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194784,
+                                    "identifier_value": "169788"
+                                },
+                                {
+                                    "official": 515424,
+                                    "version": 1,
+                                    "identifier_type": "YOUTUBE",
+                                    "valid_to": "2025-01-08 00:00:00",
+                                    "sk": 1194785,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "last_update_date": "2024-03-20 05:55:41.865819",
+                                    "id": 1194785,
+                                    "identifier_value": "UCy4xrNSRxrg6ciSAsXbRx6w"
+                                }
+                            ],
+                            "titles": [
+                                "Minority Caucus Whip"
+                            ]
+                        },
+                        {
+                            "id": 438368,
+                            "sk": 438343,
+                            "valid_from": "2023-04-18 00:00:00",
+                            "valid_to": null,
+                            "last_update_date": "2023-04-14 18:45:59.533344",
+                            "salutation": "",
+                            "first_name": "VACANT",
+                            "middle_initial": "",
+                            "last_name": "VACANT",
+                            "nickname": "",
+                            "preferred_name": "",
+                            "name_suffix": "",
+                            "office": {
+                                "id": 438368,
+                                "sk": 438343,
+                                "valid_from": "2023-04-18 00:00:00",
+                                "valid_to": null,
+                                "last_update_date": "2023-04-14 18:45:59.533344",
+                                "district": {
+                                    "id": 936389,
+                                    "sk": 755457,
+                                    "valid_from": "2023-01-04 00:00:00",
+                                    "valid_to": "2033-01-05 00:00:00",
+                                    "last_update_date": "2022-09-12 20:43:36.363636",
+                                    "district_type": "STATE_LOWER",
+                                    "subtype": "LOWER",
+                                    "country": "US",
+                                    "state": "MO",
+                                    "city": "",
+                                    "district_id": "78",
+                                    "label": "Missouri House of Representatives district 78",
+                                    "num_officials": 1,
+                                    "ocd_id": "ocd-division/country:us/state:mo/sldl:78",
+                                    "data": {}
+                                },
+                                "representing_city": "",
+                                "representing_state": "MO",
+                                "representing_country": {
+                                    "status": "UN Member State",
+                                    "name_short": "United States",
+                                    "gmi_3": "USA",
+                                    "valid_from": "0001-01-01 00:00:00",
+                                    "name_short_iso": "United States",
+                                    "name_short_local": "United States",
+                                    "valid_to": null,
+                                    "id": 270,
+                                    "sk": 247,
+                                    "name_short_un": "United States of America",
+                                    "version": 1,
+                                    "fips": "US",
+                                    "last_update_date": "2012-10-10 17:29:57.613222",
+                                    "iso_3": "USA",
+                                    "iso_2": "US",
+                                    "iso_3_numeric": 840,
+                                    "name_long_local": "United States of America",
+                                    "name_long": "United States of America"
+                                },
+                                "notes": "",
+                                "title": "Representative",
+                                "chamber": {
+                                    "legislature_update_date": "0001-01-01 04:56:02",
+                                    "official_count": 163,
+                                    "id": 6261,
+                                    "term_length": "2 years",
+                                    "term_limit": "",
+                                    "inauguration_rules": "Term start date: Missouri legislators assume office the first Wednesday after the first Monday in January at 12:00pm (state constitution Article III, Section 20)",
+                                    "name_native_language": "",
+                                    "contact_phone": "",
+                                    "name_formal": "Missouri House of Representatives",
+                                    "election_frequency": "2 years",
+                                    "government": {
+                                        "name": "Missouri, US",
+                                        "type": "STATE",
+                                        "city": "",
+                                        "state": "MO",
+                                        "country": {
+                                            "status": "UN Member State",
+                                            "name_short": "United States",
+                                            "gmi_3": "USA",
+                                            "valid_from": "0001-01-01 00:00:00",
+                                            "name_short_iso": "United States",
+                                            "name_short_local": "United States",
+                                            "valid_to": null,
+                                            "id": 270,
+                                            "sk": 247,
+                                            "name_short_un": "United States of America",
+                                            "version": 1,
+                                            "fips": "US",
+                                            "last_update_date": "2012-10-10 17:29:57.613222",
+                                            "iso_3": "USA",
+                                            "iso_2": "US",
+                                            "iso_3_numeric": 840,
+                                            "name_long_local": "United States of America",
+                                            "name_long": "United States of America"
+                                        },
+                                        "notes": "http://www.senate.mo.gov/\\nhttp://www.house.mo.gov/"
+                                    },
+                                    "redistricting_rules": "",
+                                    "vacancy_rules": "In the event of a vacancy in the General Assembly, the Governor of Missouri must call for a special election without delay. The election mandate is sent to the county that first established the legislative district.",
+                                    "is_chamber_complete": true,
+                                    "contact_email": "",
+                                    "last_update_date": "2021-01-22 15:57:18.023549",
+                                    "remarks": "",
+                                    "name": "House",
+                                    "url": "https://www.house.mo.gov/",
+                                    "type": "LOWER",
+                                    "notes": "4 term limit (8 years).\\nConstitution: https://www.sos.mo.gov/cmsimages/publications/missouriconstitution_05.13.2015.pdf",
+                                    "has_geographic_representation": false,
+                                    "is_appointed": false,
+                                    "election_rules": "Election: All elected in even numbered years- 2010, 2012"
+                                },
+                                "election_rules": ""
+                            },
+                            "initial_term_start_date": null,
+                            "current_term_start_date": "2023-04-18 00:00:00",
+                            "term_end_date": null,
+                            "addresses": [],
+                            "email_addresses": [],
+                            "web_form_url": "",
+                            "urls": [],
+                            "photo_origin_url": "",
+                            "photo_cropping": null,
+                            "notes": [
+                                null
+                            ],
+                            "committees": [],
+                            "party": "",
+                            "identifiers": [],
+                            "titles": []
+                        }
+                    ],
+                    "locator": "World",
+                    "score": 100,
+                    "match_addr": "63104, Saint Louis, Missouri",
+                    "x": -90.215883,
+                    "y": 38.61427,
+                    "wkid": 4326,
+                    "locator_type": "Postal",
+                    "geoservice": "EsriWGS",
+                    "match_city": "Saint Louis",
+                    "match_subregion": "City of St. Louis",
+                    "match_region": "MO",
+                    "match_postal": "63104",
+                    "match_country": "US",
+                    "match_streetaddr": ""
+                }
+            ]
+        }
+    }
+}
